@@ -61,7 +61,7 @@ a.   KVL:
 
 
 b.  KCL:
-![Uploading image.png…]()
+<img width="1240" height="1600" alt="image" src="https://github.com/user-attachments/assets/c9a54ca5-751f-48e6-a4a1-e7ca5520695a" />
 
 
 
@@ -69,15 +69,15 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- ![Uploading image.png…]()
+<img width="1577" height="527" alt="image" src="https://github.com/user-attachments/assets/42dc5597-6821-4e7a-8001-a3088c3a6591" />
 
 
 
 b.  KCL:
-![Uploading image.png…]()
+<img width="1598" height="574" alt="image" src="https://github.com/user-attachments/assets/c34e2189-8fa7-49aa-aa87-e65ddee02060" />
 
 
 
 RESULT:
-
+Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
