@@ -1,4 +1,4 @@
-# EXP-1
+<img width="805" height="725" alt="{AF1709E0-1564-40D3-B92F-733D7CCF129C}" src="https://github.com/user-attachments/assets/59afa28e-e60d-4e31-aaed-cd799148d6fb" /># EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
@@ -44,19 +44,25 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+ <img width="811" height="613" alt="{23ACF1DA-9CF8-40F0-AFDE-772EABBBCEBD}" src="https://github.com/user-attachments/assets/725d4a4a-be66-401b-9f15-e8d3bc5d41cc" />
+
+<img width="810" height="450" alt="{01052889-751C-4818-A287-C6AF75166175}" src="https://github.com/user-attachments/assets/70a43cdb-275d-401a-9238-9e867b3dd241" />
 
 
 b.  KCL:
- 
+ <img width="810" height="726" alt="{D789401C-CFE8-4654-B443-E3DD02F9136C}" src="https://github.com/user-attachments/assets/6cd84cb7-7d98-4f71-878f-8d01bfe3a936" />
+<img width="807" height="421" alt="{61E77414-1B26-48F1-989C-0278F4C404BE}" src="https://github.com/user-attachments/assets/00025ef6-5a2c-4e76-b051-3f64034676aa" />
+
 
 Calculation:
 
 a.   KVL:
- 
+ <img width="1240" height="1600" alt="image" src="https://github.com/user-attachments/assets/781b4ad0-0a32-44c1-892b-65f442da5233" />
+
 
 
 b.  KCL:
+![Uploading image.png…]()
 
 
 
@@ -64,10 +70,12 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+ ![Uploading image.png…]()
+
 
 
 b.  KCL:
+![Uploading image.png…]()
 
 
 
